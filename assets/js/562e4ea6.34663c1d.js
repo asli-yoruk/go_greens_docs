@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_greens_docs=self.webpackChunkgo_greens_docs||[]).push([[2073],{2021:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/go_greens_docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
