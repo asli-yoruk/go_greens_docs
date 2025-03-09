@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Layout from '@theme/Layout';
 import { ComposedChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Line } from 'recharts';
 
 const data =
@@ -13,6 +14,7 @@ const SameDataComposedChart = () => {
     : data.filter(item => item.Suburb === (filterValue));
 
   return (
+    <Layout title="Graph Page" description="A sample page displaying a graph using Recharts">
     <div>
       {/* Dropdown filter for `Suburb` */}
       <div style={{ marginBottom: 20 }}>
@@ -50,6 +52,7 @@ const SameDataComposedChart = () => {
         <Line type="monotone" dataKey="Estimated resident population (no.)" stroke="#ff7300" strokeWidth={3} />
       </ComposedChart>
     </div>
+    </Layout>
   );
 };
 
