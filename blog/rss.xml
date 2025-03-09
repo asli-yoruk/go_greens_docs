@@ -46,6 +46,16 @@
             <category>Docusaurus</category>
         </item>
         <item>
+            <title><![CDATA[Greetings!]]></title>
+            <link>https://github.com/go_greens_docs/blog/greetings</link>
+            <guid>https://github.com/go_greens_docs/blog/greetings</guid>
+            <pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Congratulations, you have made your first post!]]></description>
+            <content:encoded><![CDATA[<p>Congratulations, you have made your first post!</p>
+<p>Feel free to play around and edit this post as much as you like.</p>]]></content:encoded>
+            <category>greetings</category>
+        </item>
+        <item>
             <title><![CDATA[Long Blog Post]]></title>
             <link>https://github.com/go_greens_docs/blog/long-blog-post</link>
             <guid>https://github.com/go_greens_docs/blog/long-blog-post</guid>

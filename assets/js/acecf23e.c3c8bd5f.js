@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgo_greens_docs=self.webpackChunkgo_greens_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/go_greens_docs/blog","blogTitle":"Blog","authorsListPath":"/go_greens_docs/blog/authors"}')}}]);

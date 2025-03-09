@@ -57,6 +57,24 @@
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Greetings!]]></title>
+        <id>https://github.com/go_greens_docs/blog/greetings</id>
+        <link href="https://github.com/go_greens_docs/blog/greetings"/>
+        <updated>2021-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations, you have made your first post!]]></summary>
+        <content type="html"><![CDATA[<p>Congratulations, you have made your first post!</p>
+<p>Feel free to play around and edit this post as much as you like.</p>]]></content>
+        <author>
+            <name>Joel Marcey</name>
+            <uri>https://github.com/JoelMarcey</uri>
+        </author>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <category label="greetings" term="greetings"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
         <id>https://github.com/go_greens_docs/blog/long-blog-post</id>
         <link href="https://github.com/go_greens_docs/blog/long-blog-post"/>
