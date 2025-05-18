@@ -95,6 +95,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            to: 'linechart_for_suburbs2',
+            label: 'Custom Page',
+            position: 'left',
+          }
         ],
       },
       footer: {

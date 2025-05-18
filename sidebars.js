@@ -23,6 +23,7 @@ const sidebars = {
   tutorialSidebar: [
     'hello',
     'intro',
+    'table2',
     {
       type: 'category',
       label: 'Tutorial',
@@ -35,12 +36,32 @@ const sidebars = {
     //   // items: ['graphs/population-density'],
     // },
     {
-      type: 'link',
-      // id: 'graph/population-density',
+      type: 'category',
+      // id: 'Graphs/graph1',
       label: 'Graphs',
-      href: '/linechart_for_suburbs2'
+      // href: '/linechart_for_suburbs2'
       // items: ['graphs/population-density'],
+      items: [
+        {
+          type: 'link',
+          label: 'graph1',
+          // id: 'Graphs/graph1',
+          href: '/linechart_for_suburbs2'
+        },
+        {
+          type: 'doc',
+          id: 'intro',
+          // href: '/linechart_for_suburbs2'
+        }
+      ]
     }
+    // {
+    //   type: 'link',
+    //   // id: 'Graphs/graph1',
+    //   label: 'Graphs',
+    //   href: '/linechart_for_suburbs2'
+    //   // items: ['graphs/population-density'],
+    // }
   ],
    
 };
